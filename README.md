@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Security
 
-Found a security issue? Please visit [https://auryx.dev/security](https://auryx.dev/security) for our security policy and reporting process.
+Found a security issue? Please visit [https://auryx.dev/](https://auryx.dev/) for our security policy and reporting process.
 
 ---
 
