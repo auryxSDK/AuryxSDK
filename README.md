@@ -4,15 +4,7 @@
     <img src=".github/assets/logo.png" alt="" width="200"/>
     <h1>Auryx Oracle SDK</h1>
     <p>High-Performance Decentralized Oracle SDK for Solana</p>
-    <a href="https://www.npmjs.com/package/@auryx/sdk">
-        <img src="https://img.shields.io/npm/v/@auryx/sdk.svg" alt="npm package"/>
-    </a>
-    <a href="https://github.com/AuryxSDK/AuryxSDK/blob/main/LICENSE">
-        <img src="https://img.shields.io/npm/l/@auryx/sdk.svg" alt="MIT License"/>
-    </a>
-    <a href="https://x.com/AuryxSDK">
-        <img src="https://img.shields.io/twitter/follow/AuryxSDK?style=social" alt="Twitter"/>
-    </a>
+   
 </div>
 
 ## Features
