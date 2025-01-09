@@ -1,7 +1,7 @@
 # AuryxSDK
 
 <div align="center">
-    <img src=".github/assets/logo.png" alt="Auryx Logo" width="200"/>
+    <img src=".github/assets/logo.png" alt="" width="200"/>
     <h1>Auryx Oracle SDK</h1>
     <p>High-Performance Decentralized Oracle SDK for Solana</p>
     <a href="https://www.npmjs.com/package/@auryx/sdk">
